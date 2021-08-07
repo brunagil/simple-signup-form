@@ -1,0 +1,63 @@
+.container {
+  background: url(../images/bg-intro-mobile.png);
+  background-color: hsl(0, 100%, 74%);
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.title {
+  color: white;
+  font-size: 30px;
+}
+
+.subtitle {
+  color: white;
+}
+
+.try-free {
+  background-color: hsl(248, 32%, 49%);
+  color: white;
+  padding: 2px 50px;
+  border-radius: 10px;
+  margin: 60px 0 18px 0;
+}
+
+.signup {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  padding: 16px;
+  border-radius: 5px;
+  border: 1px solid hsl(246, 25%, 77%);
+  margin: 10px 0;
+}
+
+button {
+  background-color: hsl(154, 59%, 51%);
+  color: white;
+  border: 1px;
+  padding: 16px;
+  font-size: 16px;
+  text-transform: uppercase;
+  border-radius: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.terms {
+  font-size: 11px;
+  color: hsl(246, 25%, 77%);
+  text-align: center;
+  margin: 10px;
+  line-height: 24px;
+}
+
+a {
+  color: hsl(0, 100%, 74%);
+  font-weight: bold;
+}
